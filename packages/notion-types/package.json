@@ -1,6 +1,6 @@
 {
-  "name": "notion-types",
-  "version": "6.12.9",
+  "name": "@spencerpauly/notion-types",
+  "version": "6.12.10",
   "type": "module",
   "description": "TypeScript types for core Notion data structures.",
   "repository": "Engine-so/react-notion-x",
@@ -13,5 +13,6 @@
   ],
   "engines": {
     "node": ">=12"
-  }
+  },
+  "gitHead": "af4ec253948c0830ea600d1689cc01ca68af3d8f"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "notion-utils",
-  "version": "6.12.9",
+  "name": "@spencerpauly/notion-utils",
+  "version": "6.12.10",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
   "repository": "Engine-so/react-notion-x",
@@ -44,5 +44,6 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  }
+  },
+  "gitHead": "af4ec253948c0830ea600d1689cc01ca68af3d8f"
 }

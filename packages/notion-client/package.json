@@ -1,6 +1,6 @@
 {
-  "name": "notion-client",
-  "version": "6.12.9",
+  "name": "@spencerpauly/notion-client",
+  "version": "6.12.10",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
   "repository": "Engine-so/react-notion-x",
@@ -37,5 +37,6 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  }
+  },
+  "gitHead": "af4ec253948c0830ea600d1689cc01ca68af3d8f"
 }

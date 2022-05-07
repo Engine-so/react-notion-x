@@ -1,6 +1,6 @@
 {
   "name": "en-notion-utils",
-  "version": "6.12.12",
+  "version": "6.12.7",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
   "repository": "Engine-so/react-notion-x",

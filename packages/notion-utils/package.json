@@ -1,6 +1,6 @@
 {
   "name": "en-notion-utils",
-  "version": "6.12.13",
+  "version": "6.12.14",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
   "repository": "Engine-so/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",

@@ -1,6 +1,6 @@
 {
   "name": "en-notion-client",
-  "version": "6.12.13",
+  "version": "6.12.14",
   "description": "Robust TypeScript client for the unofficial Notion API.",
   "repository": "Engine-so/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
@@ -16,7 +16,7 @@
     "node": ">=12"
   },
   "scripts": {
-    "build": "tsup",
+    "build": "tsup --format cjs",
     "watch": "tsup --watch --silent --onSuccess 'echo build successful'",
     "test": "ava"
   },

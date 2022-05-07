@@ -1,7 +1,6 @@
 {
   "name": "en-notion-compat",
-  "version": "6.12.8",
-  "type": "module",
+  "version": "6.12.13",
   "description": "Compatibility layer between the official Notion API and unofficial private API.",
   "repository": "Engine-so/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
